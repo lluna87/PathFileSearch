@@ -1,0 +1,7 @@
+C:\Users\luism\source\repos\Buscar archivos directorios\Buscar archivos directorios\bin\Debug\Buscar archivos directorios.exe.config
+C:\Users\luism\source\repos\Buscar archivos directorios\Buscar archivos directorios\bin\Debug\Buscar archivos directorios.exe
+C:\Users\luism\source\repos\Buscar archivos directorios\Buscar archivos directorios\bin\Debug\Buscar archivos directorios.pdb
+C:\Users\luism\source\repos\Buscar archivos directorios\Buscar archivos directorios\obj\Debug\Buscar archivos directorios.csprojAssemblyReference.cache
+C:\Users\luism\source\repos\Buscar archivos directorios\Buscar archivos directorios\obj\Debug\Buscar archivos directorios.csproj.CoreCompileInputs.cache
+C:\Users\luism\source\repos\Buscar archivos directorios\Buscar archivos directorios\obj\Debug\Buscar archivos directorios.exe
+C:\Users\luism\source\repos\Buscar archivos directorios\Buscar archivos directorios\obj\Debug\Buscar archivos directorios.pdb
